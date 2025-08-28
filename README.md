@@ -7,6 +7,12 @@
 npx sv create skdemo
 ```
 
+## Dependencies
+
+```bash
+npm install -D vite-plugin-devtools-json
+```
+
 ## Developing
 
 Once you've created a project and installed dependencies with `npm install`, start a development server:
