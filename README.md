@@ -9,8 +9,17 @@ npx sv create skdemo
 
 ## Dependencies
 
+### devtools
 ```bash
 npm install -D vite-plugin-devtools-json
+```
+
+### Firebase
+
+[howto setup](https://firebase.google.com/docs/web/setup#available-libraries)
+
+```bash
+npm install firebase
 ```
 
 ## Developing
